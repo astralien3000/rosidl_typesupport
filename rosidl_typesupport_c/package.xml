@@ -19,6 +19,7 @@
   <build_export_depend>rosidl_typesupport_connext_c</build_export_depend>
   <build_export_depend>rosidl_typesupport_introspection_c</build_export_depend>
   <build_export_depend>rosidl_typesupport_opensplice_c</build_export_depend>
+  <build_export_depend>rosidl_typesupport_cbor</build_export_depend>
 
   <exec_depend>libpoco-dev</exec_depend>
   <exec_depend>poco_vendor</exec_depend>

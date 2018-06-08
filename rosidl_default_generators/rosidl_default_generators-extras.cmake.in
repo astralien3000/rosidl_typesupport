@@ -10,6 +10,8 @@ set(_exported_dependencies
   "rosidl_typesupport_connext_cpp"
   "rosidl_typesupport_opensplice_c"
   "rosidl_typesupport_opensplice_cpp"
+  "rosidl_typesupport_cbor"
+  "rosidl_typesupport_cbor_cpp"
 )
 
 # find_package() all dependencies (if available)
